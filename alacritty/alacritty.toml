@@ -1,6 +1,6 @@
-[colors.primary]
-background = "0x1e1e2e"
-foreground = "0xd7d7d7"
+import = [
+    "~/.config/alacritty/themes/themes/alabaster_dark.toml"
+]
 
 [cursor]
 style = "Block"
