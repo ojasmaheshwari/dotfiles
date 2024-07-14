@@ -1,0 +1,10 @@
+# Ignore all directories
+*/
+
+# Include specific directories
+!i3/
+!picom/
+!polybar/
+!alacritty/
+!rofi/
+!helix/
