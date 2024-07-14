@@ -1,4 +1,5 @@
 # Ignore all directories
+*
 */
 
 # Include specific directories
