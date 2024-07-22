@@ -198,5 +198,5 @@ bindsym $mod+r mode "resize"
 
 gaps inner 10
 gaps outer 1
-# smart_gaps on
+smart_gaps on
 default_border none
